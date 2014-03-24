@@ -707,11 +707,7 @@ DATA_SECTION
 			}
 			else if( !h ) 
 			{
-<<<<<<< HEAD
 					cout<<h<<endl;
-=======
-					//cout<<h<<endl;
->>>>>>> cgrandin/IPHC-developer
 				for(int h=1;h<=nsex;h++)
 				{
 					ig                   = pntr_ags(f,g,h);

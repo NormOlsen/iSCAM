@@ -56,7 +56,7 @@
 #                                                                               #
 #                                                                               #
 #-------------------------------------------------------------------------------#
-setwd("/Users/stevenmartell1/Documents/iSCAM-project/src/r-code/")
+setwd("C:/Users/OlsenN/Documents/GitHub/iSCAM/src/r-code")
 require(Hmisc)
 .RFILES     <- list.files("./R/",pattern="\\.[Rr]$")
 for(nm in .RFILES) source(file.path("./R", nm), echo=FALSE)

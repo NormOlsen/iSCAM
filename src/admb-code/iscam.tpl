@@ -286,8 +286,6 @@ DATA_SECTION
 	init_int ngear;				
 	vector age(sage,nage);			
 
-
-
 	// |---------------------------------------------------------------------------------|
 	// | LINKS TO MANAGE ARRAY INDEXING
 	// |---------------------------------------------------------------------------------|
@@ -711,9 +709,13 @@ DATA_SECTION
 					cout<<h<<endl;
 =======
 					//cout<<h<<endl;
+<<<<<<< HEAD
 				
 >>>>>>> Temporary merge branch 2
 >>>>>>> cgrandin/IPHC-developer
+=======
+
+>>>>>>> robynforrest/IPHC-developer
 				for(int h=1;h<=nsex;h++)
 				{
 					ig                   = pntr_ags(f,g,h);

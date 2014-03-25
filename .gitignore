@@ -95,9 +95,21 @@ dist/
 *.sql
 *.sqlite
 
+<<<<<<< HEAD
 #Doxygen directory#
 html/
 
+=======
+
+#Doxygen directory#
+html/
+
+#Jekyll directory
+
+
+
+
+>>>>>>> cgrandin/IPHC-developer
 # OS generated files #
 ######################
 .DS_Store

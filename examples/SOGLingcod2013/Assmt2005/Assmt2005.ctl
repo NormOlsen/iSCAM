@@ -66,10 +66,9 @@
 6	6	11	6	6   	# 1  -selectivity type ivector(isel_type) for gear
 4.45	2	700	4.45	2       # 2  -Age at 50% selectivity (logistic)
 0.2	0.2	70	0.2	0.2     # 3  -STD at 50% selectivity (logistic)
->>>>>>> smartell/IPHC-developer
-0	0	0	0	0       # 4  -No. of age nodes for each gear (0=ignore)
-0	0	0	0	0       # 5  -No. of year nodes for 2d spline(0=ignore)
--0	-0	-0	-1	-2      # 6  -Phase of estimation (-1 for fixed)
+0	   0	  0	  0	   0       # 4  -No. of age nodes for each gear (0=ignore)
+0	   0	  0	  0	   0       # 5  -No. of year nodes for 2d spline(0=ignore)
+-0	-0	 -0	 -1	  -2      # 6  -Phase of estimation (-1 for fixed)
 2	2	2	2	2	# 7  -Penalty wt for 2nd differences w=1/(2*sig^2)
 2 	2	2	2	2	# 8  -Penalty wt for dome-shaped w=1/(2*sig^2)
 12	12	12	12	12      # 9  -Penalty wt for time-varying selectivity
